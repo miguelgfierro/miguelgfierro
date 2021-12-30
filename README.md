@@ -12,12 +12,12 @@ Hi there 👋, my name is Miguel and I help people understand and apply AI.
 
 ![Twitter](https://github-readme-stats.vercel.app/api?username=miguelgfierro&count_private=true&show_icons=true&theme=merko&include_all_commits=true&hide=contribs)
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=miguelgfierro&label=Profile%20views&color=282828&style=flat" alt="PROFILE VIEWS"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=miguelgfierro&label=Profile%20views&color=blue&style=flat" alt="PROFILE VIEWS"/></p>
 
 ![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=miguelgfierro&theme=gruvbox&margin-w=10&margin-h=15&column=8)
 
 <p align="center">
 
-  [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=miguelgfierro&theme=gruvbox)](https://github.com/miguelgfierro)
+  [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=miguelgfierro&theme=react-dark)](https://github.com/miguelgfierro)
 
 </p>
