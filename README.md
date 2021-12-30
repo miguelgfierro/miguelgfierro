@@ -11,7 +11,9 @@ Hi there 👋, my name is Miguel and I help people understand and apply AI.
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/miguelgfierro/).
 - ⚡ Fun fact: The picture in my profile is the HOAP-3 humanoid robot. I did my PhD thesis with it. Hrere is a fun video of [HOAP dancing](https://www.youtube.com/watch?v=fbu2cYW08HQ).
 
-![Twitter](https://github-readme-stats.vercel.app/api?username=miguelgfierro&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miguelgfierro&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs" />
+</p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=miguelgfierro&label=Profile%20views&color=blue&style=flat" alt="PROFILE VIEWS"/></p>
 
