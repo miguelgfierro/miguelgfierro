@@ -20,7 +20,7 @@ Hi there 👋, my name is Miguel and I help people understand and apply AI.
 </p>
 
 | ![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=miguelgfierro&theme=gruvbox&margin-w=10&margin-h=15&column=8) |
-
+|:--:|
 
 
 
