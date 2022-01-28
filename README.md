@@ -19,7 +19,8 @@ Hi there 👋, my name is Miguel and I help people understand and apply AI.
 <img src="https://komarev.com/ghpvc/?username=miguelgfierro&label=Profile%20views&color=blue&style=flat" alt="PROFILE VIEWS"/>
 </p>
 
-![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=miguelgfierro&theme=gruvbox&margin-w=10&margin-h=15&column=8){width="800" height="600" style="display: block; margin: 0 auto"}
+| ![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=miguelgfierro&theme=gruvbox&margin-w=10&margin-h=15&column=8) |
+| :--: |
 
 
 
