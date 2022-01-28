@@ -15,9 +15,14 @@ Hi there 👋, my name is Miguel and I help people understand and apply AI.
   <img src="https://github-readme-stats.vercel.app/api?username=miguelgfierro&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs" />
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=miguelgfierro&label=Profile%20views&color=blue&style=flat" alt="PROFILE VIEWS"/></p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=miguelgfierro&label=Profile%20views&color=blue&style=flat" alt="PROFILE VIEWS"/>
+</p>
 
+<p align="center">
 ![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=miguelgfierro&theme=gruvbox&margin-w=10&margin-h=15&column=8)
+</p>
+
 
 <p align="center">
 
