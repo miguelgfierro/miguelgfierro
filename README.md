@@ -2,7 +2,7 @@ Hi there 👋, my name is Miguel and I help people understand and apply AI.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miguelgfierro/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Miguel-blue?logo=linkedin" /></a>
-  <a href="https://bit.ly/3AJYM2P" target="_blank"><img src="https://img.shields.io/badge/Blog-Visit%20miguelgfierro.com-blue.svg" /></a>
+  <a href="https://miguelgfierro.com/?utm_source=github&utm_medium=profile&utm_campaign=github-readme" target="_blank"><img src="https://img.shields.io/badge/Blog-Visit%20miguelgfierro.com-blue.svg" /></a>
   <!--<a href="https://twitter.com/intent/follow?screen_name=miguelgfierro" target="_blank"><img src="https://img.shields.io/twitter/follow/miguelgfierro?style=social" /></a>-->
 </p>
 
