@@ -6,7 +6,7 @@ Hi there 👋, my name is Miguel and I help people understand and apply AI.
   <!--<a href="https://twitter.com/intent/follow?screen_name=miguelgfierro" target="_blank"><img src="https://img.shields.io/twitter/follow/miguelgfierro?style=social" /></a>-->
 </p>
 
-- 🔭 I lead the Personalization team at Microsoft. We are a team of Data Scientists and Software Engineers working on Recommendation Systems, NLP, Computer Vision and other Machine Learning solutions.
+- 🤖 I lead the Personalization team at Microsoft. We are a team of Data Scientists and Software Engineers working on Recommendation Systems, NLP, Computer Vision and other Machine Learning solutions.
 - 💬 You can ask me about how to develop your career as a Data Scientist, how to apply AI to your business, or how to land a job in a big tech company. ➡️➡️ **[Join my email list](https://bit.ly/emaillistmiguel).** ⬅️⬅️
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/miguelgfierro/).
 - ⚡ Fun fact: The picture in my profile is the HOAP-3 humanoid robot. I did my PhD thesis with it. Here is a fun video of [HOAP dancing](https://www.youtube.com/watch?v=fbu2cYW08HQ).
