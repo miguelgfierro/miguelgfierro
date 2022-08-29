@@ -33,8 +33,7 @@ Hello there 👋, my name is Miguel González-Fierro.
 #### Check out my latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [An Analysis of the Adoption of Top Deep Learning Frameworks](https://miguelgfierro.com/blog/2022/an-analysis-of-the-adoption-of-top-deep-learning-frameworks/)
-- [My most popular LinkedIn posts of 2021](https://miguelgfierro.com/blog/2022/my-most-popular-linkedin-posts-of-2021/)
-- [A Gentle Introduction to Distributed Training with DeepSpeed](https://miguelgfierro.com/blog/2022/a-gentle-introduction-to-distributed-training-with-deepspeed/)
-- [A Gentle Introduction to Matrix Factorization for Recommendations](https://miguelgfierro.com/blog/2021/a-gentle-introduction-to-matrix-factorization-for-recommendations/)
-<!-- BLOG-POST-LIST:END -->
+ - 🦾 [An Analysis of the Adoption of Top Deep Learning Frameworks](https://miguelgfierro.com/blog/2022/an-analysis-of-the-adoption-of-top-deep-learning-frameworks/)
+ - 📢 [My most popular LinkedIn posts of 2021](https://miguelgfierro.com/blog/2022/my-most-popular-linkedin-posts-of-2021/)
+ - 🔥 [A Gentle Introduction to Distributed Training with DeepSpeed](https://miguelgfierro.com/blog/2022/a-gentle-introduction-to-distributed-training-with-deepspeed/)
+ - 🤖 [A Gentle Introduction to Matrix Factorization for Recommendations](https://miguelgfierro.com/blog/2021/a-gentle-introduction-to-matrix-factorization-for-recommendations/)<!-- BLOG-POST-LIST:END -->
