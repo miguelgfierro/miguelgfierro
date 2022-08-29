@@ -30,7 +30,7 @@ Hello there 👋, my name is Miguel González-Fierro.
 
 </p>
 
-#### Check out my latest blog posts
+#### Check out my latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [An Analysis of the Adoption of Top Deep Learning Frameworks](https://miguelgfierro.com/blog/2022/an-analysis-of-the-adoption-of-top-deep-learning-frameworks/)

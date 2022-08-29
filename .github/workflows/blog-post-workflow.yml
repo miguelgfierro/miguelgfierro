@@ -11,6 +11,7 @@ on:
                 description: 'Tags to label this manual run (optional)'
                 default: 'Manual run'
 jobs: 
+    # More info: https://github.com/gautamkrishnar/blog-post-workflow
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
         runs-on: ubuntu-latest
@@ -20,3 +21,4 @@ jobs:
               with: 
                 max_post_count: "4"
                 feed_list: "https://feeds.feedburner.com/miguelgfierro"
+                template: "$newline - $emojiKey(🦾,📢,🔥,🤖) [$title]($url)"
