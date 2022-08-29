@@ -21,4 +21,4 @@ jobs:
               with: 
                 max_post_count: "4"
                 feed_list: "https://feeds.feedburner.com/miguelgfierro"
-                template: "$newline - $emojiKey(🦾,📢,🔥,🤖) [$title]($url)"
+                template: "$newline - $emojiKey(🦾,📢,🔥,🤖) [$title]($url?utm_source=github&utm_medium=profile&utm_campaign=github-readme)"
