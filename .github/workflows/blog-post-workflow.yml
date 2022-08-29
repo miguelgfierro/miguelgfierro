@@ -1,7 +1,15 @@
 name: Latest blog post workflow
 on: 
+    # Runs every hour
     schedule:
         - cron: '0 * * * *'
+
+    # Enable manual trigger
+    workflow_dispatch:
+        input:
+            tags:
+                description: 'Tags to label this manual run (optional)'
+                default: 'Manual run'
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
