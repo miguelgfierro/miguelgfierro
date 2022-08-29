@@ -1,0 +1,22 @@
+name: Latest blog post workflow
+on: 
+    # Runs every hour
+    schedule:
+        - cron: '0 * * * *'
+
+    # Enable manual trigger
+    workflow_dispatch:
+        input:
+            tags:
+                description: 'Tags to label this manual run (optional)'
+                default: 'Manual run'
+jobs: 
+    update-readme-with-blog: 
+        name: Update this repo's README with latest blog posts
+        runs-on: ubuntu-latest
+        steps: 
+            - uses: actions/checkout@v2
+            - uses: gautamkrishnar/blog-post-workflow@master
+              with: 
+                max_post_count: "4"
+                feed_list: "https://feeds.feedburner.com/miguelgfierro"

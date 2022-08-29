@@ -10,7 +10,7 @@ Hello there 👋, my name is Miguel González-Fierro.
 
 💬 In addition, I help people understand and apply AI. Whether you want to switch your career to Data Science, land a job in a big tech company, grow your Data Science career, or apply AI to your business, I can help you. ➡️➡️ **[Join my email list](https://bit.ly/emaillistmiguel)** ⬅️⬅️
 
-💻 I'm a mantainer of [Recommenders](https://github.com/microsoft/recommenders), the top open source repository in Recommendation Systems. I have also contributed to the deep learning frameworks [MXNet](https://github.com/apache/incubator-mxnet) and [CNTK](https://github.com/microsoft/cntk). In [this repo](https://github.com/miguelgfierro/sciblog_support) you can find a porfolio of machine learning projects. Finally, outside machine learning, I have built [my own blog](https://github.com/miguelgfierro/sciblog) from scratch, that looks like a LaTeX paper. 
+💻 I'm a maintainer of [Recommenders](https://github.com/microsoft/recommenders), the top open source repository in Recommendation Systems. I have also contributed to the deep learning frameworks [MXNet](https://github.com/apache/incubator-mxnet) and [CNTK](https://github.com/microsoft/cntk). In [this repo](https://github.com/miguelgfierro/sciblog_support) you can find a portfolio of machine learning projects. Finally, outside machine learning, I have built [my own blog](https://github.com/miguelgfierro/sciblog) from scratch, that looks like a LaTeX paper. 
 
 ⚡ Fun fact: The picture in my profile is the HOAP-3 humanoid robot. I did my PhD thesis with it. Here is a fun video of [HOAP dancing](https://www.youtube.com/watch?v=fbu2cYW08HQ).
 
@@ -24,8 +24,13 @@ Hello there 👋, my name is Miguel González-Fierro.
 
 <p align="center">
 
-[![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=miguelgfierro&theme=gruvbox&margin-w=15&margin-h=15&column=8)](https://github.com/miguelgfierro)
+[![STATS (TROPHIES)](https://github-profile-trophy.vercel.app/?username=miguelgfierro&theme=gruvbox&margin-w=15&margin-h=15&column=8)](https://github.com/miguelgfierro)
 
 [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=miguelgfierro&theme=react-dark)](https://github.com/miguelgfierro)
 
 </p>
+
+#### Check out my latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
