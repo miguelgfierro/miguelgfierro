@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on: 
-    # Runs every hour
+    # Runs every day at 2am (see https://crontab.guru/#0_2_*_*_*)
     schedule:
-        - cron: '0 * * * *'
+        - cron: '0 2 * * *'
 
     # Enable manual trigger
     workflow_dispatch:
