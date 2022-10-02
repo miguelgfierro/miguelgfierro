@@ -33,7 +33,7 @@ Hello there 👋, my name is Miguel González-Fierro.
 #### Check out my latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
- - 🦾 [An Analysis of the Adoption of Top Deep Learning Frameworks](https://miguelgfierro.com/blog/2022/an-analysis-of-the-adoption-of-top-deep-learning-frameworks/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
- - 📢 [My most popular LinkedIn posts of 2021](https://miguelgfierro.com/blog/2022/my-most-popular-linkedin-posts-of-2021/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
- - 🔥 [A Gentle Introduction to Distributed Training with DeepSpeed](https://miguelgfierro.com/blog/2022/a-gentle-introduction-to-distributed-training-with-deepspeed/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
- - 🤖 [A Gentle Introduction to Matrix Factorization for Recommendations](https://miguelgfierro.com/blog/2021/a-gentle-introduction-to-matrix-factorization-for-recommendations/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)<!-- BLOG-POST-LIST:END -->
+ - 🦾 [D4 Data Podcast with Miguel Fierro - Recommendation Systems](https://miguelgfierro.com/blog/2022/d4-data-podcast-with-miguel-fierro-recommendation-systems/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
+ - 📢 [An Analysis of the Adoption of Top Deep Learning Frameworks](https://miguelgfierro.com/blog/2022/an-analysis-of-the-adoption-of-top-deep-learning-frameworks/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
+ - 🔥 [My most popular LinkedIn posts of 2021](https://miguelgfierro.com/blog/2022/my-most-popular-linkedin-posts-of-2021/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
+ - 🤖 [A Gentle Introduction to Distributed Training with DeepSpeed](https://miguelgfierro.com/blog/2022/a-gentle-introduction-to-distributed-training-with-deepspeed/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)<!-- BLOG-POST-LIST:END -->
