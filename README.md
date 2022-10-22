@@ -4,7 +4,7 @@
   <!--<a href="https://twitter.com/intent/follow?screen_name=miguelgfierro" target="_blank"><img src="https://img.shields.io/twitter/follow/miguelgfierro?style=social" /></a>-->
 </p>
 
-Hello there 👋, my name is Miguel González-Fierro.
+Hello there 👋, my name is Miguel Fierro.
 
 🤖 I lead the Personalization team at Microsoft. We are a team of Data Scientists and Software Engineers working on Recommendation Systems, NLP, Computer Vision and other Machine Learning solutions.
 
