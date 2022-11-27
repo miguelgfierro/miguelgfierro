@@ -33,7 +33,7 @@ Hello there 👋, my name is Miguel Fierro.
 #### Check out my latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
- - 🦾 [Discover my day to day at Microsoft - Doing a data science project](https://miguelgfierro.com/blog/2022/discover-my-day-to-day-at-microsoft-doing-a-data-science-project/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
- - 📢 [D4 Data Podcast with Miguel Fierro - Recommendation Systems](https://miguelgfierro.com/blog/2022/d4-data-podcast-with-miguel-fierro-recommendation-systems/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
- - 🔥 [An Analysis of the Adoption of Top Deep Learning Frameworks](https://miguelgfierro.com/blog/2022/an-analysis-of-the-adoption-of-top-deep-learning-frameworks/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
- - 🤖 [My most popular LinkedIn posts of 2021](https://miguelgfierro.com/blog/2022/my-most-popular-linkedin-posts-of-2021/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)<!-- BLOG-POST-LIST:END -->
+ - 🦾 [Building Recommender Systems](https://miguelgfierro.com/blog/2022/building-recommender-systems/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
+ - 📢 [Discover my day to day at Microsoft - Doing a data science project](https://miguelgfierro.com/blog/2022/discover-my-day-to-day-at-microsoft-doing-a-data-science-project/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
+ - 🔥 [D4 Data Podcast with Miguel Fierro - Recommendation Systems](https://miguelgfierro.com/blog/2022/d4-data-podcast-with-miguel-fierro-recommendation-systems/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
+ - 🤖 [An Analysis of the Adoption of Top Deep Learning Frameworks](https://miguelgfierro.com/blog/2022/an-analysis-of-the-adoption-of-top-deep-learning-frameworks/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)<!-- BLOG-POST-LIST:END -->
