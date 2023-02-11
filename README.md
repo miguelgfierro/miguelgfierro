@@ -26,8 +26,10 @@ Hello there 👋, my name is Miguel Fierro.
 
 [![STATS (TROPHIES)](https://github-profile-trophy.vercel.app/?username=miguelgfierro&theme=gruvbox&margin-w=15&margin-h=15&column=8)](https://github.com/miguelgfierro)
 
-
 </p>
+
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
 
 #### Check out my latest blog posts:
 
