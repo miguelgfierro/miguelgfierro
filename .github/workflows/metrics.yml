@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_GITHUB }}
           
           user: miguelgfierro
-          # commits_authoring: miguelgfierro, ${{ secrets.AUTHOR_EMAILS }}
+          commits_authoring: miguelgfierro, Miguel Fierro, Miguel González-Fierro
           config_timezone: Europe/Madrid
           template: classic
           repositories: 1000
@@ -46,14 +46,7 @@ jobs:
 
           plugin_notable: yes
           plugin_notable_from: organization
-          plugin_notable_repositories: no
+          plugin_notable_repositories: yes
           plugin_notable_types: commit, pull_request, issue
-
-
-          plugin_reactions: yes
-          plugin_reactions_limit: 1000
-          plugin_reactions_limit_issues: 1000
-          plugin_reactions_display: absolute
-          plugin_reactions_details: count
 
           plugin_stargazers: yes
