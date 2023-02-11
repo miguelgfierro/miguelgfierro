@@ -32,21 +32,10 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          plugin_habits: yes
-          plugin_habits_from: 1000
-          plugin_habits_days: 30
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
-
           plugin_languages: yes
           plugin_languages_details: percentage, lines
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 30
+          plugin_languages_indepth: no
+          plugin_languages_analysis_timeout: 60
           plugin_languages_categories: programming
-
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_repositories: yes
-          plugin_notable_types: commit, pull_request, issue
 
           plugin_stargazers: yes
