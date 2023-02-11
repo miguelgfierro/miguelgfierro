@@ -1,0 +1,23 @@
+name: Metrics
+on:
+  # Runs every day at 5am (see https://crontab.guru/#0_5_*_*_*)
+  schedule:
+    - cron: '0 5 * * *'
+  
+  # Run workflow manually
+  workflow_dispatch:
+
+  # Run workflow when pushing on master/main
+  push: 
+    branches: 
+      "main"
+      
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_GITHUB }}
