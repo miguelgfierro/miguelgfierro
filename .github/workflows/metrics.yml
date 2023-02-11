@@ -7,11 +7,6 @@ on:
   # Run workflow manually
   workflow_dispatch:
 
-  # Run workflow when pushing on master/main
-  push: 
-    branches: 
-      "main"
-
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
