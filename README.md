@@ -19,15 +19,9 @@ Hello there 👋, my name is Miguel Fierro.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelgfierro&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs" />
+  <img src="/github-metrics.svg" alt="Metrics" width="600">
 </p>
 
-<p align="center">
-
-[![STATS (TROPHIES)](https://github-profile-trophy.vercel.app/?username=miguelgfierro&theme=gruvbox&margin-w=15&margin-h=15&column=8)](https://github.com/miguelgfierro)
-
-
-</p>
 
 #### Check out my latest blog posts:
 
