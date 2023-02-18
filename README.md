@@ -22,7 +22,6 @@ Hello there 👋, my name is Miguel Fierro.
   <img src="/github-metrics.svg" alt="Metrics" width="600">
 </p>
 
-
 #### Check out my latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
