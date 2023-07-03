@@ -25,7 +25,7 @@ Hello there 👋, my name is Miguel Fierro.
 #### Check out my latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
- - 🦾 [The Story of How Nikolaos Got a Data Science Job in Just 3 Months](https://miguelgfierro.com/blog/2023/the-story-of-how-nikolaos-got-a-data-science-job-in-just-3-months/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
- - 📢 [Machine Learning Mastery for Career Growth at Top-Tech Corporations](https://miguelgfierro.com/blog/2023/machine-learning-mastery-for-career-growth-at-top-tech-corporations/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
- - 🔥 [Start with Transformers](https://miguelgfierro.com/blog/2023/start-with-transformers/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
- - 🤖 [My Most Popular LinkedIn Posts Of 2022](https://miguelgfierro.com/blog/2023/my-most-popular-linkedin-posts-of-2022/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)<!-- BLOG-POST-LIST:END -->
+ - 🦾 [From Cloud Solution Architect to Data Scientist in 4 Months](https://miguelgfierro.com/blog/2023/from-cloud-solution-architect-to-data-scientist-in-4-months/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
+ - 📢 [The Story of How Nikolaos Got a Data Science Job in Just 3 Months](https://miguelgfierro.com/blog/2023/the-story-of-how-nikolaos-got-a-data-science-job-in-just-3-months/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
+ - 🔥 [Machine Learning Mastery for Career Growth at Top-Tech Corporations](https://miguelgfierro.com/blog/2023/machine-learning-mastery-for-career-growth-at-top-tech-corporations/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
+ - 🤖 [Start with Transformers](https://miguelgfierro.com/blog/2023/start-with-transformers/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)<!-- BLOG-POST-LIST:END -->
