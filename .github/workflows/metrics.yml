@@ -44,7 +44,7 @@ jobs:
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: chartist
 
-          plugin_achievements: yes
+          plugin_achievements: no # FIXME: I noticed an error in July 2023 
           plugin_achievements_only: >-
             polyglot, stargazer, member, maintainer, scripter, infographile
           plugin_achievements_display: detailed
