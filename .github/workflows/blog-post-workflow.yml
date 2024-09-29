@@ -41,4 +41,4 @@ jobs:
                 git config --global user.email "github-actions@github.com"
                 git add README.md
                 git commit -m "Update latest Substack posts"
-                git push
+                git push origin substack
