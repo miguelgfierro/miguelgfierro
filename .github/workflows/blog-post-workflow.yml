@@ -1,24 +1,49 @@
-name: Latest blog post workflow
+name: Latest Substack Posts Workflow
 on: 
-    # Runs every day at 2am (see https://crontab.guru/#0_2_*_*_*)
     schedule:
         - cron: '0 2 * * *'
-
-    # Enable manual trigger
     workflow_dispatch:
-        input:
-            tags:
-                description: 'Tags to label this manual run (optional)'
-                default: 'Manual run'
-jobs: 
-    # More info: https://github.com/gautamkrishnar/blog-post-workflow
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
+
+jobs:
+    update-readme-with-substack:
+        name: Update this repo's README with latest Substack posts
         runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://feeds.feedburner.com/miguelgfierro"
-                template: "$newline - $emojiKey(🦾,📢,🔥,🤖) [$title]($url?utm_source=github&utm_medium=profile&utm_campaign=github-readme)"
+        steps:
+            - uses: actions/checkout@v4
+            - name: Fetch Substack posts from RSS2JSON
+              run: |
+                curl "https://api.rss2json.com/v1/api.json?rss_url=https://miguelgfierro.substack.com/feed" > substack.json
+            - name: Parse and update README
+              run: |
+                # Extract the latest posts from JSON and format them for the README
+                cat substack.json | jq -r '.items[] | "- 🤖 [\(.title)](\(.link))"' | head -n 5 > latest_posts.md
+            - name: Replace posts in README
+              run: |
+                # Read the content of latest_posts.md into a variable
+                posts=$(cat latest_posts.md)
+                # Use awk to safely replace the section between the markers
+                awk -v posts="$posts" '
+                  BEGIN { print_flag = 1 }
+                  /<!-- BLOG-POST-LIST:START -->/ { print_flag = 0; print $0; print posts; next }
+                  /<!-- BLOG-POST-LIST:END -->/ { print_flag = 1 }
+                  print_flag == 1 { print $0 }
+                ' README.md > README.tmp && mv README.tmp README.md
+            - name: Clean up temporary files
+              run: |
+                cat latest_posts.md
+                rm latest_posts.md substack.json
+            - name: Check for changes in README
+              run: |
+                if ! git diff --quiet README.md; then
+                  echo "README.md has changed"
+                  git config --global user.name "github-actions"
+                  git config --global user.email "github-actions@github.com"
+                  git add README.md
+                  git commit -m "Update latest Substack posts"
+                  git pull --rebase origin main
+                  git push
+                else
+                  echo "No changes to commit"
+                  exit 0
+                fi
+          

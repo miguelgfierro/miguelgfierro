@@ -27,10 +27,12 @@ Hello there 👋, my name is Miguel Fierro.
   <img src="/github-metrics.svg" alt="Metrics" width="600">
 </p>
 
-#### Check out my latest blog posts:
+#### Check out the latest content from my AI community:
 
 <!-- BLOG-POST-LIST:START -->
- - 🦾 [Reverse Learning: How to learn the AI used today in the industry](https://miguelgfierro.com/blog/2023/reverse-learning-how-to-learn-the-ai-used-today-in-the-industry/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
- - 📢 [From Cloud Solution Architect to Data Scientist in 4 Months](https://miguelgfierro.com/blog/2023/from-cloud-solution-architect-to-data-scientist-in-4-months/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
- - 🔥 [The Story of How Nikolaos Got a Data Science Job in Just 3 Months](https://miguelgfierro.com/blog/2023/the-story-of-how-nikolaos-got-a-data-science-job-in-just-3-months/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)
- - 🤖 [Machine Learning Mastery for Career Growth at Top-Tech Corporations](https://miguelgfierro.com/blog/2023/machine-learning-mastery-for-career-growth-at-top-tech-corporations/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)<!-- BLOG-POST-LIST:END -->
+- 🤖 [Laplace's Demon, AGI and the Scientific Method](https://miguelgfierro.substack.com/p/laplaces-demon-agi-and-the-scientific)
+- 🤖 [A Gentle Introduction to Convolutional Neural Networks](https://miguelgfierro.substack.com/p/a-gentle-introduction-to-convolutional)
+- 🤖 [When to use Deep Learning in a Data Science Problem](https://miguelgfierro.substack.com/p/when-to-use-deep-learning-in-a-data)
+- 🤖 [How human intelligence works and how to take advantage of it](https://miguelgfierro.substack.com/p/how-human-intelligence-works-and)
+- 🤖 [A Gentle Introduction to the Basics of Machine Learning](https://miguelgfierro.substack.com/p/a-gentle-introduction-to-the-basics)
+<!-- BLOG-POST-LIST:END -->
