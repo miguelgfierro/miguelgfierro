@@ -25,6 +25,7 @@ jobs:
                 sed -i '/<!-- LATEST_POSTS_START -->/,/<!-- LATEST_POSTS_END -->/c\<!-- LATEST_POSTS_START -->\n'"$posts"'\n<!-- LATEST_POSTS_END -->' README.md
             - name: Clean up temporary files
               run: |
+                cat README.md
                 rm latest_posts.md substack.json
             - name: Check for changes in README
               run: |
