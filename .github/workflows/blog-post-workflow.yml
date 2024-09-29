@@ -39,11 +39,12 @@ jobs:
                   git config --global user.name "github-actions"
                   git config --global user.email "github-actions@github.com"
                   git add README.md
-                  git pull --rebase origin substack
                   git commit -m "Update latest Substack posts"
+                  git pull --rebase origin substack
+                  
                   git push
                 else
                   echo "No changes to commit"
                   exit 0
                 fi
-                
+          
