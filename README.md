@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=miguelgfierro" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Miguel-blue?logo=linkedin" /></a>
   <a href="https://miguelgfierro.com/?utm_source=github&utm_medium=profile&utm_campaign=github-readme" target="_blank"><img src="https://img.shields.io/badge/Blog-Visit%20miguelgfierro.com-blue.svg" /></a>
-  <!--<a href="https://twitter.com/intent/follow?screen_name=miguelgfierro" target="_blank"><img src="https://img.shields.io/twitter/follow/miguelgfierro?style=social" /></a>-->
+  <a href="https://x.com/intent/follow?screen_name=miguelgfierro" target="_blank"><img src="https://img.shields.io/badge/%40miguelgfierro-_?style=flat&logo=X&label=Follow&color=blue" /></a>
 </p>
 
 Hello there 👋, my name is Miguel Fierro.
