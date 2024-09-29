@@ -16,7 +16,7 @@ jobs:
             - name: Parse and update README
               run: |
                 # Extract the latest posts from JSON and format them for the README
-                cat substack.json | jq -r '.items[] | "- [\(.title)](\(.link))"' | head -n 5 > latest_posts.md
+                cat substack.json | jq -r '.items[] | "- 🤖 [\(.title)](\(.link))"' | head -n 5 > latest_posts.md
             - name: Replace posts in README
               run: |
                 # Read the content of latest_posts.md into a variable
@@ -41,7 +41,6 @@ jobs:
                   git add README.md
                   git commit -m "Update latest Substack posts"
                   git pull --rebase origin substack
-                  
                   git push
                 else
                   echo "No changes to commit"
