@@ -26,6 +26,14 @@ jobs:
             - name: Clean up temporary files
               run: |
                 rm latest_posts.md substack.json
+            - name: Check for changes in README
+              run: |
+                if ! git diff --quiet README.md; then
+                  echo "README.md has changed"
+                else
+                  echo "No changes to commit"
+                  exit 0
+                fi
             - name: Commit changes
               run: |
                 git config --global user.name "github-actions"
