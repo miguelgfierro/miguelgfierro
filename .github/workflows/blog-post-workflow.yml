@@ -17,10 +17,12 @@ jobs:
               run: |
                 # Extract the latest posts from JSON and format them for the README
                 cat substack.json | jq -r '.items[] | "- 🔥 [\(.title)](\(.link))"' | head -n 4 > latest_posts.md
-            - name: Update README file
+            - name: Replace posts in README
               run: |
-                # Replace the section in README with the latest posts
-                sed -i '/<!-- LATEST_POSTS_START -->/,/<!-- LATEST_POSTS_END -->/c\<!-- LATEST_POSTS_START -->\n'$(cat latest_posts.md)'\n<!-- LATEST_POSTS_END -->' README.md
+                # Escape content for sed by replacing special characters
+                posts=$(sed -e 's/[\/&]/\\&/g' latest_posts.md)
+                # Safely replace the section in README with the latest posts
+                sed -i '/<!-- LATEST_POSTS_START -->/,/<!-- LATEST_POSTS_END -->/c\<!-- LATEST_POSTS_START -->\n'"$posts"'\n<!-- LATEST_POSTS_END -->' README.md
             - name: Commit changes
               run: |
                 git config --global user.name "github-actions"
