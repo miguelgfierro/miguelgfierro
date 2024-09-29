@@ -4,6 +4,8 @@
   <a href="https://x.com/intent/follow?screen_name=miguelgfierro" target="_blank"><img src="https://img.shields.io/badge/%40miguelgfierro-_?style=flat&logo=X&label=Follow&color=blue" /></a>
   <a href="https://www.youtube.com/channel/UCQvJe9CLvqMI0yav_kbfVaw?app=desktop&sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/%40miguelgfierro-_?style=flat&logo=YouTube&label=Subscribe&color=blue" /></a>
   <a href="https://www.instagram.com/miguelgfierro/" target="_blank"><img src="https://img.shields.io/badge/%40miguelgfierro-_?style=flat&logo=Instagram&logoColor=white&label=Follow&color=blue" /></a>
+  <a href="https://www.facebook.com/miguelgfierro" target="_blank"><img src="https://img.shields.io/badge/miguelgfierro-_?style=flat&logo=Facebook&label=Follow&color=blue" /></a>
+  <a href="https://www.tiktok.com/@miguelgfierro" target="_blank"><img src="https://img.shields.io/badge/%40miguelgfierro-_?style=flat&logo=Instagram&logoColor=white&label=Follow&color=blue" /></a>
 
 </p>
 
