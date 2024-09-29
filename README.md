@@ -30,8 +30,9 @@ Hello there 👋, my name is Miguel Fierro.
 #### Check out my latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 [Laplace's Demon, AGI and the Scientific Method](https://miguelgfierro.substack.com/p/laplaces-demon-agi-and-the-scientific)
-- 🔥 [A Gentle Introduction to Convolutional Neural Networks](https://miguelgfierro.substack.com/p/a-gentle-introduction-to-convolutional)
-- 🔥 [When to use Deep Learning in a Data Science Problem](https://miguelgfierro.substack.com/p/when-to-use-deep-learning-in-a-data)
-- 🔥 [How human intelligence works and how to take advantage of it](https://miguelgfierro.substack.com/p/how-human-intelligence-works-and)
+- [Laplace's Demon, AGI and the Scientific Method](https://miguelgfierro.substack.com/p/laplaces-demon-agi-and-the-scientific)
+- [A Gentle Introduction to Convolutional Neural Networks](https://miguelgfierro.substack.com/p/a-gentle-introduction-to-convolutional)
+- [When to use Deep Learning in a Data Science Problem](https://miguelgfierro.substack.com/p/when-to-use-deep-learning-in-a-data)
+- [How human intelligence works and how to take advantage of it](https://miguelgfierro.substack.com/p/how-human-intelligence-works-and)
+- [A Gentle Introduction to the Basics of Machine Learning](https://miguelgfierro.substack.com/p/a-gentle-introduction-to-the-basics)
  - 🤖 [Machine Learning Mastery for Career Growth at Top-Tech Corporations](https://miguelgfierro.com/blog/2023/machine-learning-mastery-for-career-growth-at-top-tech-corporations/?utm_source=github&utm_medium=profile&utm_campaign=github-readme)<!-- BLOG-POST-LIST:END -->
