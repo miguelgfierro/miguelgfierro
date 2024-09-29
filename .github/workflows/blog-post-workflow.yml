@@ -23,6 +23,9 @@ jobs:
                 posts=$(cat latest_posts.md | sed ':a;N;$!ba;s/\n/\\n/g; s/[&/]/\\&/g')
                 # Safely replace the section in README with the latest posts
                 sed -i '/<!-- LATEST_POSTS_START -->/,/<!-- LATEST_POSTS_END -->/c\<!-- LATEST_POSTS_START -->\n'"$posts"'\n<!-- LATEST_POSTS_END -->' README.md
+            - name: Clean up temporary files
+              run: |
+                rm latest_posts.md substack.json
             - name: Commit changes
               run: |
                 git config --global user.name "github-actions"
