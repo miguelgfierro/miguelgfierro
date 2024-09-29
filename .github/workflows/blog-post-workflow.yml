@@ -24,8 +24,8 @@ jobs:
                 # Use awk to safely replace the section between the markers
                 awk -v posts="$posts" '
                   BEGIN { print_flag = 1 }
-                  /<!-- LATEST_POSTS_START -->/ { print_flag = 0; print $0; print posts; next }
-                  /<!-- LATEST_POSTS_END -->/ { print_flag = 1 }
+                  /<!-- BLOG-POST-LIST:START -->/ { print_flag = 0; print $0; print posts; next }
+                  /<!-- BLOG-POST-LIST:END -->/ { print_flag = 1 }
                   print_flag == 1 { print $0 }
                 ' README.md > README.tmp && mv README.tmp README.md
             - name: Clean up temporary files
@@ -36,14 +36,13 @@ jobs:
               run: |
                 if ! git diff --quiet README.md; then
                   echo "README.md has changed"
+                  git config --global user.name "github-actions"
+                  git config --global user.email "github-actions@github.com"
+                  git add README.md
+                  git commit -m "Update latest Substack posts"
+                  git push
                 else
                   echo "No changes to commit"
                   exit 0
                 fi
-            - name: Commit changes
-              run: |
-                git config --global user.name "github-actions"
-                git config --global user.email "github-actions@github.com"
-                git add README.md
-                git commit -m "Update latest Substack posts"
-                git push
+                
