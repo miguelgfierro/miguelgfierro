@@ -27,7 +27,7 @@ Hello there 👋, my name is Miguel Fierro.
   <img src="/github-metrics.svg" alt="Metrics" width="600">
 </p>
 
-#### Check out my latest blog posts:
+#### Check out the latest content from my AI community:
 
 <!-- BLOG-POST-LIST:START -->
 - 🤖 [Laplace's Demon, AGI and the Scientific Method](https://miguelgfierro.substack.com/p/laplaces-demon-agi-and-the-scientific)
