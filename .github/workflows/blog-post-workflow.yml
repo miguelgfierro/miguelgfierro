@@ -1,24 +1,30 @@
-name: Latest blog post workflow
+name: Latest Substack Posts Workflow
 on: 
-    # Runs every day at 2am (see https://crontab.guru/#0_2_*_*_*)
     schedule:
         - cron: '0 2 * * *'
-
-    # Enable manual trigger
     workflow_dispatch:
-        input:
-            tags:
-                description: 'Tags to label this manual run (optional)'
-                default: 'Manual run'
-jobs: 
-    # More info: https://github.com/gautamkrishnar/blog-post-workflow
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
+
+jobs:
+    update-readme-with-substack:
+        name: Update this repo's README with latest Substack posts
         runs-on: ubuntu-latest
-        steps: 
+        steps:
             - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://miguelgfierro.substack.com/feed"
-                template: "$newline - $emojiKey(🦾,📢,🔥,🤖) [$title]($url?utm_source=github&utm_medium=profile&utm_campaign=github-readme)"
+            - name: Fetch Substack posts from RSS2JSON
+              run: |
+                curl "https://api.rss2json.com/v1/api.json?rss_url=https://miguelgfierro.substack.com/feed" > substack.json
+            - name: Parse and update README
+              run: |
+                # Extract the latest posts from JSON and format them for the README
+                cat substack.json | jq -r '.items[] | "- 🔥 [\(.title)](\(.link))"' | head -n 4 > latest_posts.md
+            - name: Update README file
+              run: |
+                # Replace the section in README with the latest posts
+                sed -i '/<!-- LATEST_POSTS_START -->/,/<!-- LATEST_POSTS_END -->/c\<!-- LATEST_POSTS_START -->\n'$(cat latest_posts.md)'\n<!-- LATEST_POSTS_END -->' README.md
+            - name: Commit changes
+              run: |
+                git config --global user.name "github-actions"
+                git config --global user.email "github-actions@github.com"
+                git add README.md
+                git commit -m "Update latest Substack posts"
+                git push
