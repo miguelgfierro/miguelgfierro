@@ -30,9 +30,9 @@ Hello there 👋, my name is Miguel Fierro.
 #### Check out the latest content from my AI community:
 
 <!-- BLOG-POST-LIST:START -->
+- 🤖 [The Ultimate Guide to Machine Learning Testing](https://miguelgfierro.substack.com/p/the-ultimate-guide-to-machine-learning)
 - 🤖 [10 Ethical Issues of Artificial Intelligence and Robotics](https://miguelgfierro.substack.com/p/10-ethical-issues-of-artificial-intelligence)
 - 🤖 [10 Reasons Why You Should Be Using Git in AI and How to Get Started](https://miguelgfierro.substack.com/p/10-reasons-why-you-should-be-using)
 - 🤖 [Laplace's Demon, AGI and the Scientific Method](https://miguelgfierro.substack.com/p/laplaces-demon-agi-and-the-scientific)
 - 🤖 [A Gentle Introduction to Convolutional Neural Networks](https://miguelgfierro.substack.com/p/a-gentle-introduction-to-convolutional)
-- 🤖 [When to use Deep Learning in a Data Science Problem](https://miguelgfierro.substack.com/p/when-to-use-deep-learning-in-a-data)
 <!-- BLOG-POST-LIST:END -->
