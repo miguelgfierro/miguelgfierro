@@ -11,11 +11,11 @@
 
 Hello there 👋, my name is Miguel Fierro.
 
-🤖 I have worked on different teams at Microsoft building Recommendation Systems, NLP, Computer Vision and other Machine Learning solutions.
+🤖 I have worked on different teams at Microsoft, building Recommendation Systems, NLP, Computer Vision, and other Machine Learning solutions.
 
 💬 In addition, I help people understand and apply AI. Whether you want to switch your career to Data Science, land a job in a big tech company, grow your Data Science career, or apply AI to your business, you can find a lot of useful content on my [LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=miguelgfierro).
 
-💻 I'm a maintainer of [Recommenders](https://github.com/microsoft/recommenders), the top open source repository in Recommendation Systems. I have also contributed to the deep learning frameworks [MXNet](https://github.com/apache/mxnet/commits?author=miguelgfierro) and [CNTK](https://github.com/microsoft/cntk). In [this repo](https://github.com/miguelgfierro/sciblog_support) you can find a portfolio of machine learning projects. Finally, outside machine learning, I have built [my own blog](https://github.com/miguelgfierro/sciblog) from scratch, that looks like a LaTeX paper. 
+💻 I'm a maintainer of [Recommenders](https://github.com/microsoft/recommenders), the top open source repository in Recommendation Systems. I have also contributed to the deep learning frameworks [MXNet](https://github.com/apache/mxnet/commits?author=miguelgfierro) and [CNTK](https://github.com/microsoft/cntk). In [this repo](https://github.com/miguelgfierro/ai_projects), you can find a portfolio of machine learning projects. Finally, outside of machine learning, I have built [my own blog](https://github.com/miguelgfierro/sciblog) from scratch, which looks like a LaTeX paper. 
 
 ⚡ Fun fact: The picture in my profile is the HOAP-3 humanoid robot. I did my PhD thesis with it. Here is a fun video of [HOAP dancing](https://www.youtube.com/watch?v=fbu2cYW08HQ).
 
