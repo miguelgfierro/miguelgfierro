@@ -13,7 +13,7 @@ Hello there 👋, my name is Miguel Fierro.
 
 🤖 I have worked on different teams at Microsoft, building Recommendation Systems, NLP, Computer Vision, and other Machine Learning solutions.
 
-💬 In addition, I help people understand and apply AI. Whether you want to switch your career to Data Science, land a job in a big tech company, grow your Data Science career, or apply AI to your business, you can find a lot of useful content on my [LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=miguelgfierro).
+💬 In addition, I help people understand and apply AI. Whether you want to switch your career to Data Science, land a job in a big tech company, grow your Data Science career, or apply AI to your business, you can find a lot of useful content on my [LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=miguelgfierro). If you want to get into AI, join the [Bridge To AI Challenge](https://www.datacean.com/bridge-to-ai-challenge).
 
 💻 I'm a maintainer of [Recommenders](https://github.com/microsoft/recommenders), the top open source repository in Recommendation Systems. I have also contributed to the deep learning frameworks [MXNet](https://github.com/apache/mxnet/commits?author=miguelgfierro) and [CNTK](https://github.com/microsoft/cntk). In [this repo](https://github.com/miguelgfierro/ai_projects), you can find a portfolio of machine learning projects. Finally, outside of machine learning, I have built [my own blog](https://github.com/miguelgfierro/sciblog) from scratch, which looks like a LaTeX paper. 
 
