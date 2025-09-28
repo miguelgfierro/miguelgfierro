@@ -30,7 +30,7 @@ Hello there 👋, my name is Miguel Fierro.
 #### Check out the latest content from my AI community:
 
 <!-- BLOG-POST-LIST:START -->
-- 🤖 [I'm Starting A New Way To Help People Switch Their Careers To AI](https://miguelgfierro.substack.com/p/im-starting-a-new-way-to-help-people)
+- 🤖 [I'm Starting A New Way To Help People Switch Their Career To AI](https://miguelgfierro.substack.com/p/im-starting-a-new-way-to-help-people)
 - 🤖 [My Journey to Microsoft and What I've Learned Along the Way - Part 6](https://miguelgfierro.substack.com/p/my-journey-to-microsoft-and-what-f50)
 - 🤖 [My Journey to Microsoft and What I've Learned Along the Way - Part 5](https://miguelgfierro.substack.com/p/my-journey-to-microsoft-and-what-8d6)
 - 🤖 [My Journey to Microsoft and What I've Learned Along the Way - Part 4](https://miguelgfierro.substack.com/p/my-journey-to-microsoft-and-what-f14)
